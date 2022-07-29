@@ -63,7 +63,7 @@ We imported the tests from `test_module.py` to `main.py` for your convenience. T
 
 ## Submitting
 
-Solution link: [Replit](...)
+Solution link: [Replit](https://replit.com/@RudiModena/Medicaldatavisualizer#medical_data_visualizer.py)
 
 ## LICENSE
 
